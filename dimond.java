@@ -1,3 +1,3 @@
-publi {
+public class dimond {
     
 }
