@@ -1,3 +1,2 @@
-public class dimond {
-    
-}
+public class dimond {  
+} 
