@@ -20,7 +20,7 @@ public class graph_1 {
             System.out.print(element+"-->");
             for(int i = 0;i < graph.length;i++){
                 if(element == graph[i][0]){
-                   adjList
+                
                 }
             }
             System.err.println();
