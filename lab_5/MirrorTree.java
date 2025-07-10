@@ -86,7 +86,7 @@ public class MirrorTree {
 
         Node root = BinaryTee.buildBInaryTree(nodes);
 
-        System.err.println(BinaryTee.checkForMirror(root));
+        System.out.println(BinaryTee.checkForMirror(root));
 
         BinaryTee.checkForMirrorRec(root.left, root.right);
 
