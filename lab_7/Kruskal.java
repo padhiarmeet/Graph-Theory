@@ -17,7 +17,7 @@ public class Kruskal {
         if(parant[index] == index){
             return index;
         }
-        return findParent(parant[index]);
+        return parant[index] = findParent(parant[index]);
     }
 
     public static void union(int nodeA,int nodeB){
